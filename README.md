@@ -1,17 +1,21 @@
-![Мотиватор](ссылка на картинку)
-## Привет! 👋 
-### Я Катя, Junior QA Engineer. 
-### Очень хочу найти работу, которая будет приносить и пользу и удовольствие.
-### Обучаюсь самостоятельно, поэтому стараюсь максимально расширить область знаний.
-### Надеюсь не упустила ничего важного, что может помешать дальнейшему сотрудничеству!
+### Привет! 👋  Я Катя, Junior QA Engineer. 
+#### Очень хочу найти работу, которая будет приносить и пользу и удовольствие.
+#### Обучаюсь самостоятельно, поэтому стараюсь максимально расширить область знаний.
+#### Надеюсь не упустила ничего важного, что может помешать дальнейшему сотрудничеству!
 <br>
 
-### Мое резюмe
-[**Link to my CV on Google Drive**](https://drive.google.com/file/d/1MmJWAE9znYNjgJENi6OIAkvTSbXtexO6/view?usp=drivesdk)\
-[**Link to my CV on HeadHunter**](https://hh.ru/resume/12f15de4ff007bc5b90039ed1f736563726574)
-<br>
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=plastic&logo=telegram&logoColor=26A5E4)](https://t.me/EkaterinaKut) 
+[![Gmail](https://img.shields.io/badge/Gmail-grey?style=plastic&logo=Gmail&logoColor=EA4335)](mailto:katerinakyt@gmail.com)
 
-### Инструменты и языки
+---------
+
+### Мое резюмe:
+[*Link to my CV on Google Drive*](https://drive.google.com/file/d/1MmJWAE9znYNjgJENi6OIAkvTSbXtexO6/view?usp=drivesdk)\
+[*Link to my CV on HeadHunter*](https://hh.ru/resume/12f15de4ff007bc5b90039ed1f736563726574)
+
+----------
+
+### Технологии и инструменты:
 
 ![DevTools](https://img.shields.io/badge/DevTools-grey?style=plastic)
 ![HTML](https://img.shields.io/badge/HTML-grey?style=plastic)
@@ -42,9 +46,10 @@
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=plastic&logo=JavaScript&logoColor=F7DF1E)
 ![Docker](https://img.shields.io/badge/Docker-grey?style=plastic&logo=Docker&logoColor=2496ED)
-<br>
 
-### Проекты и тестовая документация
+---------
+
+### Проекты и тестовая документация:
 
 <!-- сделать репозитории для списка ниже: -->
 
@@ -61,7 +66,3 @@
 - [BDD Project](add link)
 - [Playwright Project](add link)
 - [Postman Collections](add link)
-<br>
-
-### Follow Me
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=plastic&logo=telegram&logoColor=26A5E4)](https://t.me/EkaterinaKut)
