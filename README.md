@@ -49,17 +49,17 @@
 
 ---------
 
-### Проекты и тестовая документация:
+### Реализованные проекты:
+- [SQL Project](https://ekaterinakutiminskaya.github.io/SQLite_Project/)
 
-<!-- сделать репозитории для списка ниже: -->
-
+### Проекты и тестовая документация, планируемые к реализации и публикации в ближайшем будущем.
+Часть проектов реализовано, но еще не готовы выйти в свет:
 - [Test plans](add link)
 - [Checklists](add link)
 - [Test-Cases](add link)
 - [Bug-Reports](add link)
 - [Test reports](add link)
 - [HTML Project](add link)
-- [SQL Project](add link)
 - [NoSQL Project](add link)
 - [Linux Terminal](add link)
 - [Postman collection](add link)    <!-- public view -->
