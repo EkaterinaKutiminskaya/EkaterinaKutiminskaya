@@ -61,8 +61,7 @@
 - [Test reports](add link)
 - [HTML Project](add link)
 - [NoSQL Project](add link)
-- [Linux Terminal](add link)
-- [Postman collection](add link)    <!-- public view -->
+- [Linux Terminal](add link) 
 - [BDD Project](add link)
 - [Playwright Project](add link)
-- [Postman Collections](add link)
+- [Postman Collections](add link)   <!-- public view -->
