@@ -51,6 +51,7 @@
 
 ### Реализованные проекты:
 - [SQL Project](https://ekaterinakutiminskaya.github.io/SQLite_Project/)
+- [Postman Project](https://github.com/EkaterinaKutiminskaya/Postman_Project)
 
 ### Проекты и тестовая документация, планируемые к реализации и публикации в ближайшем будущем.
 Часть проектов реализовано, но еще не готовы выйти в свет:
@@ -64,4 +65,3 @@
 - [Linux Terminal](add link) 
 - [BDD Project](add link)
 - [Playwright Project](add link)
-- [Postman Collections](add link)   <!-- public view -->
