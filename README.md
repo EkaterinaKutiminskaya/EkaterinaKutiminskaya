@@ -34,7 +34,7 @@
 ![Postman](https://img.shields.io/badge/Postman-grey?style=plastic&logo=postman&logoColor=FF6C37)
 ![Charles](https://img.shields.io/badge/Charles-grey?style=plastic)
 <br>
-![gnometerminal](https://img.shields.io/badge/gnometerminal-grey?style=plastic&logo=gnometerminal&logoColor=241F31)
+![Bash](https://img.shields.io/badge/Bash-grey?style=plastic&logo=gnubash&logoColor=47A248)
 ![Git](https://img.shields.io/badge/Git-grey?style=plastic&logo=git&logoColor=F05032)
 ![Github](https://img.shields.io/badge/Github-grey?style=plastic&logo=github&logoColor=181717)
 <br>
