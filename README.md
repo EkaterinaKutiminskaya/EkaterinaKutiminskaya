@@ -6,7 +6,7 @@
 
 Очень хочу найти работу, которая будет приносить и пользу, и удовольствие.
 Обучаюсь самостоятельно, поэтому стараюсь максимально расширить область знаний.
-Стараюсь подходить к задачам комплексно, допиливать, чтобы результат удовлетворял!
+Подхожу к задачам комплексно, допиливаю, чтобы результат удовлетворял!
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=plastic&logo=telegram&logoColor=26A5E4)](https://t.me/EkaterinaKut) 
@@ -39,7 +39,7 @@
 ![Postman](https://img.shields.io/badge/Postman-grey?style=plastic&logo=postman&logoColor=FF6C37)
 ![Charles](https://img.shields.io/badge/Charles-grey?style=plastic)
 <br>
-![gnometerminal](https://img.shields.io/badge/gnometerminal-grey?style=plastic&logo=gnometerminal&logoColor=241F31)
+![Bash](https://img.shields.io/badge/Bash-grey?style=plastic&logo=gnubash&logoColor=47A248)
 ![Git](https://img.shields.io/badge/Git-grey?style=plastic&logo=git&logoColor=F05032)
 ![Github](https://img.shields.io/badge/Github-grey?style=plastic&logo=github&logoColor=181717)
 <br>
@@ -54,20 +54,19 @@
 
 ---------
 
-### Проекты и тестовая документация:
+### Реализованные проекты:
+- [SQL Project](https://ekaterinakutiminskaya.github.io/SQLite_Project/)
+- [Postman Project](https://github.com/EkaterinaKutiminskaya/Postman_Project)
+- [Bash_scripts](https://github.com/EkaterinaKutiminskaya/Bash_scripts)
 
-<!-- сделать репозитории для списка ниже: -->
-
+### Проекты и тестовая документация, планируемые к реализации и публикации в ближайшем будущем.
+Часть проектов реализовано, но еще не готовы выйти в свет:
 - [Test plans](add link)
 - [Checklists](add link)
 - [Test-Cases](add link)
 - [Bug-Reports](add link)
 - [Test reports](add link)
 - [HTML Project](add link)
-- [SQL Project](add link)
 - [NoSQL Project](add link)
-- [Linux Terminal](add link)
-- [Postman collection](add link)    <!-- public view -->
 - [BDD Project](add link)
 - [Playwright Project](add link)
-- [Postman Collections](add link)
